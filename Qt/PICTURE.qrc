@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+<RCC>
+    <qresource prefix="/">
+        <file>pic1.png</file>
+        <file>jiazai.jpg</file>
+        <file>beijing.jpg</file>
+        <file>juli.jpg</file>
+        <file>liangdu.jpg</file>
+        <file>shidu.jpg</file>
+        <file>dianji.jpg</file>
+        <file>dengpao.jfif</file>
+        <file>wendu.png</file>
+    </qresource>
+</RCC>
+=======
+<RCC>
+    <qresource prefix="/">
+        <file>pic1.png</file>
+        <file>jiazai.jpg</file>
+        <file>beijing.jpg</file>
+        <file>juli.jpg</file>
+        <file>liangdu.jpg</file>
+        <file>shidu.jpg</file>
+        <file>dianji.jpg</file>
+        <file>dengpao.jfif</file>
+        <file>wendu.png</file>
+    </qresource>
+</RCC>
+>>>>>>> a25bce24006dac63859a9ad3fff9578815bd781f
